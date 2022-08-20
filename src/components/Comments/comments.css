@@ -1,0 +1,18 @@
+.Comments{
+    background: #ccc;
+    margin: 10px;
+    padding:10px;
+    border-radius: 6px;
+}
+.commentsDetail h4{
+    color: #222;
+    font-size: 16px;
+    text-transform: capitalize;
+    line-height:1px;
+}
+.commentsDetail h6{
+    color: #210101;
+    font-size: 13px;
+    text-transform: capitalize;
+    line-height:0px;
+}
